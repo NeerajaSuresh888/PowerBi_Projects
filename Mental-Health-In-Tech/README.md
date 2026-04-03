@@ -43,15 +43,19 @@ in the technology industry.
 
 ## Dashboard Preview
 ### Executive Overview
-![Executive Overview](overview.png)
+[![Executive Overview](https://raw.githubusercontent.com/NeerajaSuresh888/PowerBi_Projects/main/Mental-Health-In-Tech/overview.png.png)](https://github.com/NeerajaSuresh888/PowerBi_Projects/blob/main/Mental-Health-In-Tech/overview.png.png)
+
 ### Burnout & Treatment
-![Burnout](burnout.png)
+[![Burnout](https://raw.githubusercontent.com/NeerajaSuresh888/PowerBi_Projects/main/Mental-Health-In-Tech/burnout.png.png)](https://github.com/NeerajaSuresh888/PowerBi_Projects/blob/main/Mental-Health-In-Tech/burnout.png.png)
+
 ### Workplace Support
-![Workplace](workplace.png)
+[![Workplace](https://raw.githubusercontent.com/NeerajaSuresh888/PowerBi_Projects/main/Mental-Health-In-Tech/workplace.png.png)](https://github.com/NeerajaSuresh888/PowerBi_Projects/blob/main/Mental-Health-In-Tech/workplace.png.png)
+
 ### Personal & Risk Factors
-![Risk](risk.png)
+[![Risk](https://raw.githubusercontent.com/NeerajaSuresh888/PowerBi_Projects/main/Mental-Health-In-Tech/risk.png.png)](https://github.com/NeerajaSuresh888/PowerBi_Projects/blob/main/Mental-Health-In-Tech/risk.png.png)
+
 ### Stigma & Disclosure
-![Stigma](stigma.png)
+[![Stigma](https://raw.githubusercontent.com/NeerajaSuresh888/PowerBi_Projects/main/Mental-Health-In-Tech/stigma.png.png)](https://github.com/NeerajaSuresh888/PowerBi_Projects/blob/main/Mental-Health-In-Tech/stigma.png.png)
 
 ## Live Dashboard
 [Link to be added after publishing to Power BI Service]
