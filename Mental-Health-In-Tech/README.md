@@ -41,12 +41,17 @@ in the technology industry.
 - Anxiety and Mood Disorders are the most commonly diagnosed conditions
 - 70% of respondents are male — highlighting a gender gap in tech
 
-## Key DAX Measures
-- Total Respondents
-- Treatment Rate %
-- Current Disorder %
-- Stigma Score
-- Work Interference %
+## Dashboard Preview
+### Executive Overview
+![Executive Overview](overview.png)
+### Burnout & Treatment
+![Burnout](burnout.png)
+### Workplace Support
+![Workplace](workplace.png)
+### Personal & Risk Factors
+![Risk](risk.png)
+### Stigma & Disclosure
+![Stigma](stigma.png)
 
 ## Live Dashboard
 [Link to be added after publishing to Power BI Service]
