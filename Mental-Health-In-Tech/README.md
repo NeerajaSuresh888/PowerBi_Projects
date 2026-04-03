@@ -57,9 +57,6 @@ in the technology industry.
 ### Stigma & Disclosure
 [![Stigma](https://raw.githubusercontent.com/NeerajaSuresh888/PowerBi_Projects/main/Mental-Health-In-Tech/stigma.png.png)](https://github.com/NeerajaSuresh888/PowerBi_Projects/blob/main/Mental-Health-In-Tech/stigma.png.png)
 
-## Live Dashboard
-[Link to be added after publishing to Power BI Service]
-
 ## Files in This Repository
 - `Mental_Health_PowerBI_Dashboard.pbix` — Power BI dashboard file
 - `Mental_Health_PowerBI_Presentation.pptx` — Project presentation
